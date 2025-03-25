@@ -34,7 +34,7 @@ This code will not work because I removed most of the variables because this dat
 
 ## Notification Image
 <p align="center">
-    <img src="https://github.com/user-attachments/assets/78e14464-edd0-4964-a0c3-0978bf26b73c">
+    <img src="https://github.com/user-attachments/assets/78e14464-edd0-4964-a0c3-0978bf26b73c" width="300">
 </p>
 
 Personal project, made to increase efficiency in my work! ❤️
