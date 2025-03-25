@@ -161,7 +161,7 @@ class TemplateSelectorApp(ctk.CTk):
                 df_banco = pd.read_sql_query(sql_query, engine)
 
                 dyna = session.resource('dynamodb')
-                table = dyna.Table('retina-configurator-gateways')
+                table = dyna.Table('Confidential')
                 table_scan = table.scan(Select = "ALL_ATTRIBUTES")
                 df_bruto = pd.json_normalize(table_scan['Items'], sep = '_')
                 df_bruto.loc[:, 'facilityId'] = pd.to_numeric(df_bruto['facilityId'], errors='coerce')
