@@ -32,7 +32,7 @@ Python script that uses an interface to create Excel templates for mass sending 
 ## OBSERVATION
 This code will not work because I removed most of the variables because this data is confidential from the company where I currently work!
 
-## Notification Image
+## INTERFACE
 <p align="center">
     <img src="https://github.com/user-attachments/assets/78e14464-edd0-4964-a0c3-0978bf26b73c" width="300">
 </p>
